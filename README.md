@@ -102,8 +102,3 @@ KPI baselines come from this data, while target values are set by management. Al
 | 7 | **Add meter data validation** at input and require a booking reference for eVoucher use | 2.2% of trips excluded; 0.38% unreliable distance | Low–Medium | Finance |
 
 **Limitations:** only three months of data; results are associative; failed requests carry no driver or company information and Street Hail demand is not visible; the definition of "unusual time" and the 500 km / 1 km distance thresholds are analysis assumptions; the 6-trip target in `ritase_target_met` is not defined in the brief.
-
-## 6. Contact
-- Name: 
-- Email:
-- Linkedin:
