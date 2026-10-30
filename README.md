@@ -1,6 +1,6 @@
 <h1> Blue Bird: Trip-Rate Crisis &amp; Fleet Gap </h1>
 
-> Data Analytics Capstone Project: taxi fleet productivity and corporate eVoucher control (data from October–December 2023).
+> Data Analytics Project: taxi fleet productivity and corporate eVoucher control (data from October–December 2023).
 
 ## 1. Project Overview
 Blue Bird is a conventional taxi operator with a physical fleet and permanent drivers, so vehicles and drivers are **fixed costs**. Every hour on duty without a passenger is cost without revenue. Meanwhile, the Finance teams of several corporate clients have questioned the transparency of **eVoucher** usage in the *Corporate Solution* service.
